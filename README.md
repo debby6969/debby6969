@@ -2,7 +2,7 @@
 # debby6969
 
 **i write small programs that do the job.**  
-No BS. clear logic. quick experiments that teach me something.
+No BS. clear logic.  Every project is a lesson.
 
 ---
 
