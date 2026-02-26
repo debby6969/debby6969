@@ -1,16 +1,22 @@
-## Hi there 👋
+# profile
+# debby6969
 
-<!--
-**debby6969/debby6969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**i write small programs that do the job.**  
+No BS. clear logic. quick experiments that teach me something.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+i'm Deb — solving problems, coding challenge puzzles, and turning short exercises into tidy scripts. i keep things simple and readable so the code actually helps later.
+
+---
+
+### Projects
+- **Converter** — Python script that converts hex, binary, octal or denary into any form
+- **IPv4 validator** — validates dotted decimal input, checks four octets and ensures each is 0–255 to ensure validity of ipv4 format.  
+- **Green Fridge** — A website made in Python that enables user to input items they are entering expiry dates to help minimise food waste
+- **Discord Bots** — Made in python to help run servers quicker by doing actions like moderation or server maintenance
+
+---
+### contacts
+- **discord** - debby6969
