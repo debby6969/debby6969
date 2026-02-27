@@ -22,3 +22,6 @@ I'm Deb — solving problems, coding challenge puzzles, and turning short exerci
 - **discord** - debby6969
 - **debarunghosh09@outlook.com** - outlook
 - **debarunghosh09@gmail.com** - gmail
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debby6969&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debby6969&layout=compact&theme=transparent)
+
