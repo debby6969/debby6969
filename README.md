@@ -16,7 +16,7 @@ I'm Deb — solving problems, coding challenge puzzles, and turning short exerci
 - **IPv4 validator** — validates dotted decimal input, checks four octets and ensures each is 0–255 to ensure validity of ipv4 format.  
 - **Green Fridge** — A website made in Python that enables user to input items they are entering expiry dates to help minimise food waste
 - **Discord Bots** — Made in python to help run servers quicker by doing actions like moderation or server maintenance
-
+- **learning java** – expanding my skills in Java by writing small projects and experimenting with new concepts
 ---
 ### contacts
 - **discord** - debby6969
@@ -28,3 +28,4 @@ I'm Deb — solving problems, coding challenge puzzles, and turning short exerci
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Discord](https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
