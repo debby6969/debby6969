@@ -22,6 +22,10 @@ I'm Deb — solving problems, coding challenge puzzles, and turning short exerci
 - **discord** - debby6969
 - **debarunghosh09@outlook.com** - outlook
 - **debarunghosh09@gmail.com** - gmail
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Discord](https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debby6969&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debby6969&layout=compact&theme=transparent)
 
