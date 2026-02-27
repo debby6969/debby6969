@@ -22,6 +22,7 @@ I'm Deb — solving problems, coding challenge puzzles, and turning short exerci
 - **discord** - debby6969
 - **debarunghosh09@outlook.com** - outlook
 - **debarunghosh09@gmail.com** - gmail
+### badges
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Discord](https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
