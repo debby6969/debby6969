@@ -1,13 +1,13 @@
 # profile
 # debby6969
 
-**i write small programs that do the job.**  
+**I write small programs that do the job.**  
 No BS. clear logic.  Every project is a lesson.
 
 ---
 
 ### About
-i'm Deb — solving problems, coding challenge puzzles, and turning short exercises into tidy scripts. i keep things simple and readable so the code actually helps later.
+I'm Deb — solving problems, coding challenge puzzles, and turning short exercises into tidy scripts. i keep things simple and readable so the code actually helps later.
 
 ---
 
@@ -20,3 +20,5 @@ i'm Deb — solving problems, coding challenge puzzles, and turning short exerci
 ---
 ### contacts
 - **discord** - debby6969
+- **debarunghosh09@outlook.com** - outlook
+- **debarunghosh09@gmail.com** - gmail
