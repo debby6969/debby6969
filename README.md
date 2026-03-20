@@ -12,11 +12,12 @@ I'm Deb — solving problems, coding challenge puzzles, and turning short exerci
 ---
 
 ### Projects
+- **Green Fridge** — A website made in Python and HTML that enables user to input items they are entering expiry dates to help minimise food waste
 - **Converter** — Python script that converts hex, binary, octal or denary into any form
-- **password strength checker** -checks if your password is of standard strength made with python
+- **To do list** - manages tasks inputted by user made with python
+- **Password strength checker** -checks if your password is of standard strength made with python
 - **IPv4 validator** — validates dotted decimal input, checks four octets and ensures each is 0–255 to ensure validity of ipv4 format.  
-- **Green Fridge** — A website made in Python that enables user to input items they are entering expiry dates to help minimise food waste
-- **Discord Bots** — Made in python to help run servers quicker by doing actions like moderation or server maintenance
+- **Discord Bots** — Made in python to help run servers more efficiently by doing actions like moderation or server maintenance
 - **learning java** – expanding my skills in Java by writing small projects and experimenting with new concepts
 ---
 ### contacts
