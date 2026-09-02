@@ -27,6 +27,7 @@ I'm Deb — solving problems, coding challenge puzzles, and turning short exerci
 
 - ---
 ### badges
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Discord](https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
